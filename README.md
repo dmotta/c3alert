@@ -25,4 +25,4 @@ To run the server, follow these simple steps:
 go run main.go
 ```
 
-./kafka-console-consumer --bootstrap-server localhost:9092 --from-beginning --topic cloud-glb-peve-monitor-alert
+./kafka-console-consumer --bootstrap-server localhost:9092 --from-beginning --topic monitor-alert
